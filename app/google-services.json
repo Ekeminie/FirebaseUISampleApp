@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "913173152923",
+    "firebase_url": "https://my-first-project-80419.firebaseio.com",
+    "project_id": "my-first-project-80419",
+    "storage_bucket": "my-first-project-80419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913173152923:android:29f7a75866c9fb32",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseuisampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913173152923-bc61280hlr43djfpkg5qnhqc3djdd4ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseuisampleapp",
+            "certificate_hash": "52b5f6edb337602b41034567fd355bcd4badbbed"
+          }
+        },
+        {
+          "client_id": "913173152923-lqnnor7eou0sbt6tllbe31tu95k1k3fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzX0o_2dd7uqSNZcg-CeuK9dsyYeqz3fk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913173152923-lqnnor7eou0sbt6tllbe31tu95k1k3fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913173152923:android:c26362e759563e35",
+        "android_client_info": {
+          "package_name": "com.example.android.room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913173152923-suv9lenjsj25hs2augnk63pvkv65v3ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.room",
+            "certificate_hash": "52b5f6edb337602b41034567fd355bcd4badbbed"
+          }
+        },
+        {
+          "client_id": "913173152923-lqnnor7eou0sbt6tllbe31tu95k1k3fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzX0o_2dd7uqSNZcg-CeuK9dsyYeqz3fk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913173152923-lqnnor7eou0sbt6tllbe31tu95k1k3fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

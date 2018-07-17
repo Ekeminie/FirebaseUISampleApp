@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseUI Sample App</string>
+    <string name="details">These are your Details</string>
+    <string name="logout">Logout</string>
+
+    <string name="facebook_app_id" translatable="false">1532495893522716</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1532495893522716</string>
+
+</resources>
